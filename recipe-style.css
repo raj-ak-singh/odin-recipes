@@ -37,6 +37,7 @@ body {
 }
 .position {
     color: white;
+    font-family: "Patrick Hand", Caveat, cursive;
     padding : 10px;
 }
 .position a{
