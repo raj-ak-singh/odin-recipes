@@ -1,5 +1,5 @@
 # odin-recipes
 this is my first project where i have created a website that contains some information about foods 
 such as short introduction(description) , ingredients , steps to prepare it.
-currently it contains only html but once i finish reading css part i will visit again and apply
-css concept on this project itself
+
+it contains hmtl and css only , i build it as practice project after learning  for "the odin project" up untill css foundation
